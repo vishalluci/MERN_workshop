@@ -1,0 +1,47 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.main-container{
+    background-color: #28325a;
+    height: 100vh;
+}
+
+.navbar{
+    height: 10%;
+    background-color: aqua;
+}
+
+.navbar-items h2:hover{
+    color: black;
+    transform: scale(1.1);
+}
+
+.navbar-items{
+    color: #28325a;
+    
+    justify-content: center;
+    padding: 10px;
+    display: flex;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+button {
+    border-radius: 5px;
+    background-color: aqua;
+    padding: 5px;
+}
+
+button:hover{
+    background-color: #B9FFF8;
+    transform: scale(1.1);
+}
+
+.main-body-input{
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
