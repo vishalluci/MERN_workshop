@@ -44,4 +44,11 @@ button:hover{
     display: flex;
     justify-content: center;
     align-items: center;
+    border: white;
+}
+.main-body-input input{
+    height: 30px;
+    width: 40%;
+    border-radius: 10px;
+    margin-right: 10px;
 }
